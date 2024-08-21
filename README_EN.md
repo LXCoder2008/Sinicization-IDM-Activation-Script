@@ -39,7 +39,7 @@ call :_color %red% "这是一个示例文本。"
 
 ## 📂 Files
 
-- **translate_script.py**: The main script that handles translation.
+- **Sinicization IDM activation script.py**: The main script that handles translation.
 - **IAS.cmd**: The input file containing the original commands.
 - **IAS_translated.cmd**: The output file with translated text.
 
