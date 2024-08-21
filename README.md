@@ -40,7 +40,7 @@ call :_color %red% "这是一个示例文本。"
 
 ## 📂 文件结构
 
-- **translate_script.py**: 处理翻译的主要脚本。
+- **Sinicization IDM activation script.py**: 处理翻译的主要脚本。
 - **IAS.cmd**: 包含原始命令的输入文件。
 - **IAS_translated.cmd**: 翻译后的输出文件。
 
